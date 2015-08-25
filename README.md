@@ -5,3 +5,5 @@ A bot that doots.
 To add this doot bot to your groupme:
   * Set up a 'BOT_ID' config variable on your hosting service
   * Set the callback url to your server location
+
+You can also add doot messages to the doot bot by changing doots.js and making a pull request.
