@@ -14,7 +14,7 @@ var postOptions = {
 
 app.use(bodyParser.json());
 
-app.route('/:name')
+app.route('/')
 	.get(function(req, res) {
 		sayBot();
 		res.end('Thanks');
