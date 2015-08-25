@@ -1,6 +1,8 @@
 module.exports = [
 'Doot Doot',
-'The name\'s Doot. Doot Doot.',
+'Dooter? I hardly know her!',
+'Just Doot it!',
 'Si bueno queso Doot',
-'Dooter? I hardly know her!'
+'The name\'s Doot. Doot Doot.',
+'Who dooted? :poop:'
 ]
