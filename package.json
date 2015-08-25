@@ -1,0 +1,17 @@
+{
+  "name": "Bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dipernaa",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "python-shell": "^0.1.0",
+    "request": "^2.61.0"
+  }
+}
