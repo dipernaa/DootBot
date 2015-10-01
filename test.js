@@ -1,5 +1,5 @@
-var request = require('supertest');
 var server = require('./server.js');
+var request = require('supertest');
 var should = require('should');
 var app = server.app;
 
